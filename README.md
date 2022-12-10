@@ -12,58 +12,74 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```yaml
-atindra:
-    pronouns: "He or Him"
-    code:
-    - "Javascript"
-    - "Java"
-    - "SQL"
+bioData:
+    name: "Atindra Nath"
+    skills:
+        - "Javascript"
+        - "Java"
+        - "SQL"
     askMeAbout: 
-    - "web development"
-    - "career counselling"
+        - "website development"
+        - "full stack development
+        - "career counselling"
     technologies: 
         backEnd:
-        - "Java"
-        - "NodeJs"
-        - "Springboot"
-        frontEnd:
-        - "HTML 5"
-        - "Angular"
-        - "TypeScript"
-        - "Bootstrap"
-        - "CSS"
-        - "CSS3"
-        - "ReactJs"
-        devOps: 
-        - "AWS"
-        - "Docker"
-        - "Yaml"
-        - "Nginx"
-        - "Maven"
-        - "npm"
+            - "Java":
+                - "Springboot"
+            - "NodeJs":
+                - "ExpressJs"
+         frontEnd:
+            - "markup languages":
+                - "HTML"
+                - "XML"
+                - "XHTML"
+            - "Javascript":
+                - "AngularJs"
+                - "ReactJs"
+                - "TypeScript":
+                    - "Angular"
+            - "CSS":
+                - "Bootstrap"
+                - "CSS3"
+        "CL/CD": 
+            - "Azure DevOps"
+            - "Docker"
+            - "Nginx"
+            - "Maven"
+            - "npm"
+            - "JUnit"
         databases: 
-        - "MySQL"
-        - "PostgreSQL"
-        - "Oracle RDBMS"
-        misc: 
-        - "Socket.IO"
-        - "open-cv"
-        - "git"
-    architecture: 
-    - "Serverless Architecture"
-    - "Progressive web applications"
-    - "Single page applications"
-    currentFocus: 
-    - "No Focus point at this time"
-    funFact: "There are two ways to write error-free programs; only the third one works"
+            - "MySQL"
+            - "PostgreSQL"
+            - "Oracle RDBMS"
+        bugTracker:
+            - "Bugzilla"
+            - "Jira"
+            - "Azure board"
+        IDE:
+            - "Eclipse"
+            - "Visual Studio"
+            - "Android Studio"
+            - "Xamarin"
+            - "Atom"
+        liberaries: 
+            - "Socket.IO"
+            - "ChartJs"
+            - "OpenTok"
+            - "OpenStreetMap"
+    architectures: 
+        - "Serverless architecture"
+        - "Event-driven architecture"
+        - "Microservices architecture"
+        - "Client-server architecture"
+        - "Progressive web applications"
+        - "Master-slave architecture"
+    currentFocus:  "Improving and inculcating new skills"
+    funFact: 
+     - "Did you know? There are approximately 700 coding languages"
+     - "Software developers reported learning a new skill 48 % of the time, compared to 36 % of all professionals"
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C136%20hrs%2048%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-984-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
